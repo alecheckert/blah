@@ -1,7 +1,3 @@
 ---
-title: This is a title
+title: BLAH (blog of a. h.)
 ---
-
-Content
-
-$x = y^2 + 1$
