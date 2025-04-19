@@ -1,5 +1,3 @@
 ---
-title: blah
+title: <u>b</u>log of <u>a</u>. <u>h</u>
 ---
-
-<u>b</u>log of <u>a</u>. <u>h</u>.
