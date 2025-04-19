@@ -1,5 +1,1 @@
 theme: minima
-markdown: kramdown
-mathjax: true
-kramdown:
-    math: true
