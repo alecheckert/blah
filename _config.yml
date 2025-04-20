@@ -1,5 +1,3 @@
 theme: minima
 minima:
   skin: solarized
-sass:
-  sass_dir: assets
